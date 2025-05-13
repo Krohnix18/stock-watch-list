@@ -33,15 +33,18 @@ A simple Flask web application that allows users to add stock tickers to a perso
 ```bash
 git https://github.com/Krohnix18/stock-watch-list.git
 cd stock-watchlist
+```
 
 ### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the app
 
 ```bash
 python3 run.py
+```
 
 Visit http://127.0.0.1:5000 in your browser.
